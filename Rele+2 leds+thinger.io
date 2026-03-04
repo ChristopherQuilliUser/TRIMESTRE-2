@@ -1,7 +1,7 @@
 #include <WiFi.h>
 #include <ThingerESP32.h>
-#define USERNAME          "paulj"
-#define DEVICE_ID         "Bruno1234"
+#define USERNAME          "CHRISTOPHER QUILLI"
+#define DEVICE_ID         "CHRISXD"
 #define DEVICE_CREDENTIAL "12345678"
 #define SSI D              "MECATRONICA_3ABC"
 #define SSID_PASSWORD     "MEC2025@."   // Reemplaza por tu clave
