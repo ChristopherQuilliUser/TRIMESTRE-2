@@ -4,8 +4,8 @@ import time
 from machine import Pin
 
 # Configuración de WiFi
-ssid = 'CRESPO_SANDOVAL'
-password = '0704211317'
+ssid = 'CHRISTOPHER QUILLI'
+password = '0102328242'
 wifi = network.WLAN(network.STA_IF)
 wifi.active(True)
 wifi.connect(ssid, password)
@@ -13,7 +13,7 @@ while not wifi.isconnected():
     pass
 
 # Configuración de Thinger.io
-user = 'Santiagocrespo'
+user = 'CHRISXD'
 device = 'sensor'
 password_thinger = '12345678'
 
