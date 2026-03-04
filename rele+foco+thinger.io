@@ -1,7 +1,7 @@
 RELE MAS FOCO Y MAS THINGER.IO #include <WiFi.h>
 #include <ThingerESP32.h>
 /* ========= THINGER.IO ========= */
-#define USERNAME "Santiagocrespo"
+#define USERNAME "CHRISTOPHER QUILLI"
 #define DEVICE_ID "foco"
 #define DEVICE_CREDENTIAL "12345678"
 /* ========= WIFI ========= */
